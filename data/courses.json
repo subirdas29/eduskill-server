@@ -1,0 +1,37 @@
+[
+    {
+        "id": "01",
+        "name": "Javascript",
+        "title": "Beginner to Advance javascript course",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": ""
+    },
+    {
+        "id": "02",
+        "name": "C#"
+    },
+    {
+        "id": "03",
+        "name": "Python"
+    },
+    {
+        "id": "04",
+        "name": "C++"
+    },
+    {
+        "id": "05",
+        "name": "C"
+    },
+    {
+        "id": "06",
+        "name": "Java"
+    },
+    {
+        "id": "07",
+        "name": "Php"
+    },
+    {
+        "id": "08",
+        "name": "All News"
+    }
+]

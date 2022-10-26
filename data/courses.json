@@ -1,37 +1,65 @@
 [
+
     {
         "id": "01",
-        "name": "Javascript",
-        "title": "Beginner to Advance javascript course",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": ""
+        "name": "C",
+        "title": "Advanced C Programming Course",
+        "intro":"Become a True Master of the C Programming Language - Confidently Apply for Real Time or Embedded C Jobs or contracts!",
+        "image_url": "https://miro.medium.com/max/720/0*tunrxqE8i81aRwpn",
+
+        "details": " The C programming language in 2020 is still one of the most popular and widely used languages. Having C programming skills gives you great career options, but learning the C language, particularly some of the trickier advanced stuff can be really difficult.This course is designed to take your basic C skills to the next level and help you obtain mastery of the language by helping you understand advanced concepts of the C programming language, enabling you to master the art of problem-solving in programming using efficient, proven methods.You’ll learn how to write high-quality C code and to make yourself more marketable for higher-level programming positions.Just some of the topics in this huge 28-hour course include Threads, Function Pointers, Double Pointers, Recursion, Networking using Sockets, Bit manipulation, Macros, Signals, Storage Classes and loads more.  Check the curriculum on this page for full details of what is included in this very comprehensive course.By the end of this course, with your new-found skills, you will be able to apply for real-time/embedded C programming positions or any job that requires mastery of the C programming language and be able to apply your new skills developing your own Advanced C programs."  
     },
+
     {
         "id": "02",
-        "name": "C#"
+        "name": "C++",
+        "title": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+        "intro":"Classroom and Hands-on sessions- Features of C++ 11 , Exception Handling and STL - for Both Academics and Industry",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/uploads/20191113114209/CTutorial.png",
+
+        "details": " This course covers C++ from very basic to more advanced features. Concepts of C++ programming are made very simple and easy.Every topic is covered in greater detail. All Lecture are discussed both on white board like a classroom session and practical demo.Programs and Bullet points are provided as resource.Every Topic is Explained with Real life Examples.This course also covers features of modern C++ 11.Student Project at the end of Course"
     },
+
+
     {
         "id": "03",
-        "name": "Python"
+        "name": "C#",
+        "title": "Complete C# Masterclass",
+        "intro":"Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. More than just the C# basics!",
+        "image_url": "https://res.cloudinary.com/endjin/image/upload/f_auto/q_80/c_scale/w_1024/assets/images/blog/2022/01/header-flow-control-in-c-sharp.png",
+
+        "details": " Have you ever had an idea for a program, an app, or a game?Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth!C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs.  Bringing an Idea to life is one of the best feelings one can have, but the path to get there is often full of challenges. So I have created a course that makes this path as easy as possible all with the help of c# so that you become a skilled c# developer"
+        
     },
     {
         "id": "04",
-        "name": "C++"
+        "name": "Java",
+        "title": "Java Programming for Complete Beginners",
+        "intro":"Java Programming for Beginners to Java Object Oriented Programming. Core Java + REST API with Spring Boot. Java 8 to 16.",
+        "image_url": "https://velog.velcdn.com/images/moon960427/post/4941d80e-304d-4fcb-b68c-08e208ee9d7d/image.jpg",
+        "details": " LEARN JAVA PROGRAMMING WRITING 200+ JAVA PROGRAMS, PUZZLES & EXERCISES.RECOMMENDED for absolute beginners to Java and Programming!BONUS - Learn to Build REST API with Spring, Spring Boot, and JPA.7 Things YOU need to know about this JAVA PROGRAMMING Course.#1: 150,000+ Learners - One of the highest-rated Java Courses on Udemy! #2: Designed for ABSOLUTE BEGINNERS to Java Programming (Core + Advanced) #3: HANDS-ON - Write 100+ Programs - The best way to learn Java Programming is to get your hands dirty! #4: PUZZLES and EXERCISES to help reinforce your learning.#5: One of the first courses to be updated to JAVA 16. Covers all new features in Java 9, Java 10, Java 11, Java 12, Java 13, Java 14, Java 15, and Java 16.#6: FREE 150 Page Course Companion Web Site#7: BONUS - Learn to Build REST API with Spring, Spring Boot, and JPA (Hibernate)" 
+         
     },
+
     {
         "id": "05",
-        "name": "C"
+        "name": "Javascript",
+        "title": "Beginner to Advance Javascript course",
+        "intro":"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "image_url": "https://www.w3docs.com/uploads/media/default/0001/05/4482fe09d95a0be765154b9cefff5e07f7fc32ff.png",
+        "details": " Bestselling JavaScript course on EduSkill! Just updated for latest ES2021 and ES2022 features Really, really well made course. Super in-depth, with great challenges and projects that will solidify your Javascript understanding. I found the lectures were paced perfectly -- Jonas doesn't skip over anything that might be useful to a JS developer — Carson BartholomewJavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.That's why you want to learn JavaScript too. And you came to the right place!Why is this the right JavaScript course for you?This is the most complete JavaScript course on EduSkill. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer."
+        
+        
+        
     },
+    
     {
         "id": "06",
-        "name": "Java"
-    },
-    {
-        "id": "07",
-        "name": "Php"
-    },
-    {
-        "id": "08",
-        "name": "All News"
+        "name": "Python",
+        "title": "Complete Python Developer in 2022: Zero to Mastery",
+        "intro":"How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!",
+        "image_url": "https://files.realpython.com/media/real-python-video-courses-title-wide.daf71ae6460c.png",
+
+        "details": " Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date Python course on Udemy (we use the latest version of Python). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Python tutorials anymore.This comprehensive and project based course will introduce you to all of the modern skills of a Python developer (Python 3) and along the way, we will build over 12 real world projects to add to your portfolio (You will get access to all the the code from the 12+ projects we build, so that you can put them on your portfolio right away)!The curriculum is going to be very hands on as we walk you from start to finish of becoming a professional Python developer. We will start from the very beginning by teaching you Python basics and programming fundamentals, and then going into advanced topics and different career fields in Python so you can get real life practice and be ready for the real world."
     }
 ]
